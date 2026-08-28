@@ -1,0 +1,14 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "QuanticData",
+  "version": "0.1.0",
+  "description": "Live web data for your agent: read any page as clean Markdown, search and read the results, and pull typed rows from 74 ready-made collectors.",
+  "author": {
+    "name": "QuanticData",
+    "url": "https://quanticdata.io"
+  },
+  "homepage": "https://quanticdata.io/mcp-server/",
+  "repository": "https://github.com/quantumproxies/quanticdata-claude-plugin",
+  "license": "MIT",
+  "keywords": ["web-data", "scraping", "search", "serp", "crawl", "leads", "research", "mcp"]
+}
