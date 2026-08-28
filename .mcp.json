@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "quanticdata": {
+      "type": "http",
+      "url": "https://api.quanticdata.io/mcp",
+      "headers": {
+        "Authorization": "Bearer ${QUANTICDATA_API_KEY}"
+      }
+    }
+  }
+}

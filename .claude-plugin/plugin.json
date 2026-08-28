@@ -1,0 +1,12 @@
+{
+  "name": "quanticdata",
+  "version": "0.1.0",
+  "description": "Give Claude live web data: read any page as clean Markdown, search and read the results, and pull typed rows from 74 ready-made collectors — local businesses, marketplaces, jobs, news, registries and public records.",
+  "author": {
+    "name": "QuanticData",
+    "url": "https://quanticdata.io"
+  },
+  "homepage": "https://quanticdata.io/mcp-server/",
+  "license": "MIT",
+  "keywords": ["web-data", "scraping", "search", "serp", "crawl", "leads", "research"]
+}
