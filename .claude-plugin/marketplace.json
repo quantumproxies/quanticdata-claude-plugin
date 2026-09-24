@@ -1,0 +1,23 @@
+{
+  "name": "quanticdata",
+  "owner": {
+    "name": "QuanticData",
+    "email": "hello@quanticdata.io",
+    "url": "https://quanticdata.io"
+  },
+  "plugins": [
+    {
+      "name": "quanticdata",
+      "source": "./",
+      "description": "Give Claude live web data: read any page as clean Markdown, search and read the results, and pull typed rows from 74 ready-made collectors — local businesses, marketplaces, jobs, news, registries and public records.",
+      "version": "0.1.0",
+      "author": {
+        "name": "QuanticData",
+        "url": "https://quanticdata.io"
+      },
+      "homepage": "https://quanticdata.io/mcp-server/",
+      "license": "MIT",
+      "keywords": ["web-data", "scraping", "search", "serp", "crawl", "leads", "research"]
+    }
+  ]
+}
